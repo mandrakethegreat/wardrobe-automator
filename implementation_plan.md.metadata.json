@@ -1,5 +1,0 @@
-{
-  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary": "Implementation plan for Wardrobe Wardrobe, detailing the FastAPI backend, SQLite database, external API integrations (Weather, Twilio, Gemini), APScheduler for background tasks, and testing strategy.",
-  "updatedAt": "2025-11-22T22:16:31.948292300Z"
-}
