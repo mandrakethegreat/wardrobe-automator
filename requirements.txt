@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+httpx
+apscheduler
+twilio
+google-generativeai
+python-dotenv
+pytest
+pytest-asyncio
